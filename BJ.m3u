@@ -1,186 +1,20 @@
 #EXTM3U
 #EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
+#EXT-X-APTV-TYPE blank
 
-#EXTINF:-1 group-title="台湾测试_",THT music
-https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8
-#EXTINF:-1 group-title="台湾测试_",M20 TV
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 group-title="台湾测试_",DAZN Sp 1
-http://62.210.125.150:1935/live/dazn1es/playlist.m3u8
-#EXTINF:-1 group-title="台湾测试_",DAZN Sp 2
-http://62.210.125.150:1935/live/dazn2es/playlist.m3u8
-#EXTINF:-1 group-title="台湾测试_",DAZN Sp 3
-http://62.210.125.150:1935/live/dazn3es/playlist.m3u8
-#EXTINF:-1 group-title="台湾测试_",DAZN Sp 4
-http://62.210.125.150:1935/live/dazn4es/playlist.m3u8
-#EXTINF:-1 group-title="台湾测试_",M.#Vamos
-http://62.210.125.150:1935/live/vamos/playlist.m3u8
-#EXTINF:-1 group-title="台湾测试_",Liga Hypermotion
-http://62.210.125.150:1935/live/smartbank/playlist.m3u8
-#EXTINF:-1 group-title="台湾测试_",Esport 3
-http://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1 group-title="台湾测试_",ETB 1
-http://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 group-title="台湾测试_",ETB 2
-http://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 group-title="台湾测试_",TBN espana
-https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-#EXTINF:-1 group-title="台湾测试_",TVG Europa
-https://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV1
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV2
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV3
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV4
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV-4欧洲
-http://maomao.kandiantv.cn/m3u8.php?/migu/608807419
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV-4美洲
-http://maomao.kandiantv.cn/m3u8.php?/migu/608807416
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV5
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV5+
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV6
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",电影1905
-http://ez.ax86.site/proxy/cibn/1905.php?id=1905dy&token=c8360638b504fbcd9c9d4399635971c3
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV7
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV8
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV9
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV10
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV11
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV12
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV13
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV14
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV15
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV16
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV17
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CCTV-18
-https://vd3.bdstatic.com/mda-pe09yr9r30wbxc6f/720p/h264/1682924667761123043/mda-pe09yr9r30wbxc6f.mp4
-#EXTINF:-1 group-title="梅林央视卫视_",中国教育1
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226712/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",中国教育2
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226718/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",中国教育3
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226722/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",中国教育4
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226724/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",CGTN
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226666/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",纪实人文
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226705/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",北京纪实
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226730/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",金鹰纪实
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",湖南卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",江苏卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",浙江卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",上海卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",安徽卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",北京科教
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226656/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",四川卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",兵团卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226661/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",甘肃卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226662/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",河北卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226665/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",东南卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",吉林卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226671/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",贵州卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",金鹰卡通
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226674/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",北京少儿
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226677/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",海南卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",重庆卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",广西卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226681/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",江西卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",内蒙古卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226685/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",天津卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",河南卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226687/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",深圳卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",辽宁卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",宁夏卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226691/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",山东卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",厦门卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226695/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",青海卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226696/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",新疆卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226700/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",山东教育
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226701/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",哈哈炫动
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226703/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",山西卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226704/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",陕西卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226707/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",云南卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226709/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",西藏卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226710/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",湖北卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226713/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",黑龙江卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
-#EXTINF:-1 group-title="梅林央视卫视_",北京卫视
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
-#EXTINF:-1 group-title="梅林有线数字_",世界地理
-http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1 group-title="梅林有线数字_",风云剧场
-http://111.20.40.162/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 group-title="梅林有线数字_",第一剧场
-http://111.20.40.162/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 group-title="梅林有线数字_",怀旧剧场
-http://111.20.40.162/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 group-title="梅林有线数字_",风云音乐
-http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 group-title="梅林有线数字_",央视台球
-http://111.20.40.162/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 group-title="梅林有线数字_",女性时尚
-http://111.20.40.162/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 group-title="梅林有线数字_",兵器科技
-http://111.20.40.162/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="梅林有线数字_",风云足球
-http://111.20.40.162/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 group-title="梅林有线数字_",网球高尔夫
-http://111.20.40.164/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1 group-title="未分类",CCTV4K-HLG-36Mbps-25FPS-[帧率阉割]
+http://1.14.131.61:5828/cctv4k.php
+#EXTINF:-1 group-title="未分类",CCTV4K-HLG-36Mbps-50FPS-GuDou满血
+http://1.14.131.61:5678/gd4k.php
+#EXTINF:-1 group-title="未分类",CCTV4K-HLG-36Mbps-50FPS-移动满血
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
+#EXTINF:-1 group-title="未分类",CCTV4K-HLG-36Mbps-50FPS-满血臻彩视听
+http://1.14.131.61:8765/av3a4k50fps.php
+#EXTINF:-1 group-title="未分类",CCTV8K-HLG-50FPS-AV3A-臻彩视听
+http://1.14.131.61:8654/av3a8k50fps.php
+#EXTINF:-1 group-title="未分类",移动8K-1-150Mbps-50FPS-HLG-HEVC
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
+#EXTINF:-1 group-title="未分类",移动8K-2-150Mbps-50FPS-HLG-HEVC
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
+#EXTINF:-1 group-title="未分类",移动8K-3-150Mbps-50FPS-HLG-AVS3
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235537/index.m3u8
